@@ -1,2 +1,2 @@
 # Command-line
-First 500-lines project
+First 500 lines project
